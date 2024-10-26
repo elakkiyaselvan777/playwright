@@ -73,4 +73,4 @@ function oddNumber(startingNumber,endingNumber){
         }
     }
 }
-oddNumber(1,25)
+oddNumber(1,10)
