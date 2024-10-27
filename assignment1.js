@@ -10,4 +10,4 @@ function getBrowserVersion(){
     }
 }
 
-getBrowserVersion("Chrome")
+getBrowserVersion()
