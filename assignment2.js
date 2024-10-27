@@ -4,7 +4,6 @@ function palindrome(str) {
     for (i=str.length-1; i >= 0; i--) {
         reversedStr=reversedStr+str.charAt(i)
     }
-    // console.log(reversedStr)
     if (str==reversedStr) {
         console.log(str+ ": is palindrome")
         return true
